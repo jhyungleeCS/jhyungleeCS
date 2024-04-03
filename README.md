@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Daniel Lee</h1>
 
-<!--
-**jhyungleeCS/jhyungleeCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Security Projects:</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [PortSploit - Web Application that displays vulnerailities on a network's open ports](https://github.com/jhyungleeCS/portsploit)
+- [keylogger](https://github.com/jhyungleeCS/keylogger)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="Dan | Chrome" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlechrome.svg" />][website]
+[<img align="left" alt="Dan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[website]: https://www.jhyungleecs.com
+[linkedin]: https://www.linkedin.com/in/daniel-lee-32a954184/
