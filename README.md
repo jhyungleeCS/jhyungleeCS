@@ -7,7 +7,7 @@
 - [PortSploit - Web Application that displays vulnerailities on a network's open ports](https://github.com/jhyungleeCS/portsploit)
 - [keylogger](https://github.com/jhyungleeCS/keylogger)
 - [sentryPY - Python-based security log analyzer](https://github.com/jhyungleeCS/sentrypy)
-- [website/blog](https://github.com/jhyungleeCS/portfolio)
+- [website/blog](https://jhyungleecs.com)
 
 
 <h2> 🤳 Connect with me:</h2>
