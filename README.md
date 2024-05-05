@@ -7,6 +7,7 @@
 - [PortSploit - Web Application that displays vulnerailities on a network's open ports](https://github.com/jhyungleeCS/portsploit)
 - [keylogger](https://github.com/jhyungleeCS/keylogger)
 - [sentryPY - Python-based security log analyzer](https://github.com/jhyungleeCS/sentrypy)
+- [password generator/hashing](https://github.com/jhyungleeCS/password-generator)
 - [website/blog](https://jhyungleecs.com)
 
 
